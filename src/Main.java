@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Zadania {
+public class Main {
     public static void main(String[] args) {
         Scanner skaner = new Scanner(System.in);
         Random losuj = new Random();
